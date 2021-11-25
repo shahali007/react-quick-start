@@ -3,6 +3,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+ * React: 17.0.2
+ * Typescript: 4.1.2
+ * React-router-dom: 6.0.2 
+ * Material UI: 5.1.0
 
 In the project directory, you can run:
 
